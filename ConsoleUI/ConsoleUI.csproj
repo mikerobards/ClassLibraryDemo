@@ -7,6 +7,7 @@
 
   <ItemGroup>
     <ProjectReference Include="..\DemoLibrary\DemoLibrary.csproj" />
+    <ProjectReference Include="..\PersonClassLibrary\PersonClassLibrary.csproj" />
   </ItemGroup>
 
 </Project>
